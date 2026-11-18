@@ -1,0 +1,1653 @@
+fileFormatVersion: 2
+guid: acfcbabc113e0774b8b39195fbac448d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3414000555451501160
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_0
+  - first:
+      213: -1842370255440435194
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_1
+  - first:
+      213: 2543995961268203764
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_2
+  - first:
+      213: 4174968289401854229
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_3
+  - first:
+      213: 4060077481424585287
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_4
+  - first:
+      213: 998462263102435989
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_5
+  - first:
+      213: 9205703318836071731
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_6
+  - first:
+      213: 1142207960324271638
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_7
+  - first:
+      213: 5898183020476556799
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_8
+  - first:
+      213: 7018609907896999437
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_9
+  - first:
+      213: -2064447576523429986
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_10
+  - first:
+      213: 7270735923917916479
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_11
+  - first:
+      213: -1732534538144782217
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_12
+  - first:
+      213: 5833465561041099162
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_13
+  - first:
+      213: -4089114412081779252
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_14
+  - first:
+      213: -2900820387830173353
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_15
+  - first:
+      213: 8397934382717606072
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_16
+  - first:
+      213: 6538613166246459332
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_17
+  - first:
+      213: -3163738323224794087
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_18
+  - first:
+      213: 6864340429562044945
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_19
+  - first:
+      213: -3447477562698478413
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_20
+  - first:
+      213: 5932049181584000309
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_21
+  - first:
+      213: -7873943491021350593
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_22
+  - first:
+      213: -4156908686029617985
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_23
+  - first:
+      213: -1076131281793991434
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_24
+  - first:
+      213: 4756392666364837042
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_25
+  - first:
+      213: -6717151635617158252
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_26
+  - first:
+      213: -7702123287862025413
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_27
+  - first:
+      213: -680493915113511206
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_28
+  - first:
+      213: 490645063208691046
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_29
+  - first:
+      213: -5941307214493993844
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_30
+  - first:
+      213: 8360447939465366754
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_31
+  - first:
+      213: -4132797347348223505
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_32
+  - first:
+      213: 5638418123801546751
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_33
+  - first:
+      213: 7585960844505013771
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_34
+  - first:
+      213: 2364257971907568490
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_35
+  - first:
+      213: 81008692635759135
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_36
+  - first:
+      213: -2783403006048429440
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_37
+  - first:
+      213: -6724106293510727709
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_38
+  - first:
+      213: 2149369842787394727
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_39
+  - first:
+      213: -1135909306514116408
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_40
+  - first:
+      213: 1983056553096876113
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_41
+  - first:
+      213: -2830103152480143021
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_42
+  - first:
+      213: 202503483995348601
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_43
+  - first:
+      213: 3953230294429950124
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_44
+  - first:
+      213: -6214276110078657359
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_45
+  - first:
+      213: 5742776687012741788
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_46
+  - first:
+      213: 8819046849892580100
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_47
+  - first:
+      213: -5012806517068920506
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_48
+  - first:
+      213: -763821621797023942
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_49
+  - first:
+      213: -1142998401955822623
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_50
+  - first:
+      213: -1484046818090890794
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_51
+  - first:
+      213: -6887414624201259
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_52
+  - first:
+      213: 6749754258012909550
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_53
+  - first:
+      213: -2609718742768080899
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_54
+  - first:
+      213: 1991495830637591629
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_55
+  - first:
+      213: 2473312736719609326
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_56
+  - first:
+      213: 3803282932571572603
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_57
+  - first:
+      213: 4728183205569002008
+    second: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlueTwinBeePrompt
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 342
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a4ca2ca67f06f20800000000000000
+      internalID: 3414000555451501160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 288
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6082ab393069e66e0800000000000000
+      internalID: -1842370255440435194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 288
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f07b6d19d61e4320800000000000000
+      internalID: 2543995961268203764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 288
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519515e0a8770f930800000000000000
+      internalID: 4174968289401854229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 293
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74200e845fa485830800000000000000
+      internalID: 4060077481424585287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTwinBee30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 312
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5927ad163204bdd00800000000000000
+      internalID: 998462263102435989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTwinBee60
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 310
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33dcbd2056a31cf70800000000000000
+      internalID: 9205703318836071731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 278
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e60c69610f9df00800000000000000
+      internalID: 1142207960324271638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 280
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5eebb053e8ad150800000000000000
+      internalID: 5898183020476556799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 280
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0edc39668c176160800000000000000
+      internalID: 7018609907896999437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 276
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97a7e7fddb9953e0800000000000000
+      internalID: -2064447576523429986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 278
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f398cc00dc7d6e460800000000000000
+      internalID: 7270735923917916479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 277
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778e8c4540dc4f7e0800000000000000
+      internalID: -1732534538144782217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 288
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99545f4502a4f050800000000000000
+      internalID: 5833465561041099162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 238
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd6fe57b1c8047c0800000000000000
+      internalID: -4089114412081779252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 242
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751fb2af9373eb7d0800000000000000
+      internalID: -2900820387830173353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 241
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b81ce0b3d47b8470800000000000000
+      internalID: 8397934382717606072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 238
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7ffc91802ddba50800000000000000
+      internalID: 6538613166246459332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 239
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c65e9d1c42814d0800000000000000
+      internalID: -3163738323224794087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 236
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112e5697049034f50800000000000000
+      internalID: 6864340429562044945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 192
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc4a381c691820d0800000000000000
+      internalID: -3447477562698478413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 193
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53506722d4fd25250800000000000000
+      internalID: 5932049181584000309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 202
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f395c24ec122ab290800000000000000
+      internalID: -7873943491021350593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 189
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb408750391bf46c0800000000000000
+      internalID: -4156908686029617985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 192
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcbbf00d40d011f0800000000000000
+      internalID: -1076131281793991434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 191
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcf2fafde9120240800000000000000
+      internalID: 4756392666364837042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bea982d22e7c2a0800000000000000
+      internalID: -6717151635617158252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 192
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3368b26daf8c1590800000000000000
+      internalID: -7702123287862025413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 191
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad628ddb3666e86f0800000000000000
+      internalID: -680493915113511206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6656a5fd51f1fc600800000000000000
+      internalID: 490645063208691046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 152
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84be9a119c3c8da0800000000000000
+      internalID: -5941307214493993844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 151
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eccafafa17460470800000000000000
+      internalID: 8360447939465366754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 151
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9e1a685ba55a6c0800000000000000
+      internalID: -4132797347348223505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 152
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffc054f86faf3e40800000000000000
+      internalID: 5638418123801546751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 100
+        width: 93
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e5eb8223fb64960800000000000000
+      internalID: 7585960844505013771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 143
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63afec59188fc020800000000000000
+      internalID: 2364257971907568490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 142
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12f54c0afccf1100800000000000000
+      internalID: 81008692635759135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 142
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a9abd86bd5f59d0800000000000000
+      internalID: -2783403006048429440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 114
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7135fa3fc2fa2a0800000000000000
+      internalID: -6724106293510727709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 112
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4a742fb7814dd10800000000000000
+      internalID: 2149369842787394727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 112
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c07a2801807c30f0800000000000000
+      internalID: -1135909306514116408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 112
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15099d8ad6b358b10800000000000000
+      internalID: 1983056553096876113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 112
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35935b66d2479b8d0800000000000000
+      internalID: -2830103152480143021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 72
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e525588df6fc200800000000000000
+      internalID: 202503483995348601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 74
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca06fc6f102bcd630800000000000000
+      internalID: 3953230294429950124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 71
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bcb0927dc472c9a0800000000000000
+      internalID: -6214276110078657359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 72
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c920ac568f072bf40800000000000000
+      internalID: 5742776687012741788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 74
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bff59726c836a70800000000000000
+      internalID: 8819046849892580100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 32
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649085e180fee6ab0800000000000000
+      internalID: -5012806517068920506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 34
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f8609284c5665f0800000000000000
+      internalID: -763821621797023942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 8
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3859062014320f0800000000000000
+      internalID: -1142998401955822623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 7
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9c4a1284b976be0800000000000000
+      internalID: -1484046818090890794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 7
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d557e1dee787eff0800000000000000
+      internalID: -6887414624201259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 7
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef2a066cb1fbad50800000000000000
+      internalID: 6749754258012909550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 9
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df721ad51aa68cbd0800000000000000
+      internalID: -2609718742768080899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 7
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c33d418e633ab10800000000000000
+      internalID: 1991495830637591629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 6
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed1f9274d8f25220800000000000000
+      internalID: 2473312736719609326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 8
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b790c303da9f7c430800000000000000
+      internalID: 3803282932571572603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 10
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a78e01391ed9140800000000000000
+      internalID: 4728183205569002008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3772bc44a41bc4046a5531426d216eaa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BlueTwinBee30: 998462263102435989
+      BlueTwinBee60: 9205703318836071731
+      BlueTwinBeePrompt: 3414000555451501160
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_1: -1842370255440435194
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_10: -2064447576523429986
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_11: 7270735923917916479
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_12: -1732534538144782217
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_13: 5833465561041099162
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_14: -4089114412081779252
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_15: -2900820387830173353
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_16: 8397934382717606072
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_17: 6538613166246459332
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_18: -3163738323224794087
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_19: 6864340429562044945
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_2: 2543995961268203764
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_20: -3447477562698478413
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_21: 5932049181584000309
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_22: -7873943491021350593
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_23: -4156908686029617985
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_24: -1076131281793991434
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_25: 4756392666364837042
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_26: -6717151635617158252
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_27: -7702123287862025413
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_28: -680493915113511206
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_29: 490645063208691046
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_3: 4174968289401854229
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_30: -5941307214493993844
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_31: 8360447939465366754
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_32: -4132797347348223505
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_33: 5638418123801546751
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_34: 7585960844505013771
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_35: 2364257971907568490
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_36: 81008692635759135
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_37: -2783403006048429440
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_38: -6724106293510727709
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_39: 2149369842787394727
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_4: 4060077481424585287
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_40: -1135909306514116408
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_41: 1983056553096876113
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_42: -2830103152480143021
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_43: 202503483995348601
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_44: 3953230294429950124
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_45: -6214276110078657359
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_46: 5742776687012741788
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_47: 8819046849892580100
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_48: -5012806517068920506
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_49: -763821621797023942
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_50: -1142998401955822623
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_51: -1484046818090890794
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_52: -6887414624201259
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_53: 6749754258012909550
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_54: -2609718742768080899
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_55: 1991495830637591629
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_56: 2473312736719609326
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_57: 3803282932571572603
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_58: 4728183205569002008
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_7: 1142207960324271638
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_8: 5898183020476556799
+      SNES_-_Pop_n_TwinBee_-_Playable_Characters_-_Twinbee-removebg-preview_9: 7018609907896999437
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
